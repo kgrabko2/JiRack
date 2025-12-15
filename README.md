@@ -89,6 +89,7 @@ Handles image creation and display processes.
 
 ---
 ### JiRack RAG System
+- It is microservice architecture with API Gateway and Service Discovery 
 - Framework Spring boot and Google embeddings model for JiRack RAG System with Chatbot and JiRach model deployment with docker scipt 
 - video https://www.youtube.com/watch?v=vHClQu76kMc
 - RAG System https://bitbucket.org/cmsmanhattan/rag/src/main/
