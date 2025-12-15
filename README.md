@@ -1,5 +1,5 @@
 ---
-license: gpl-3.0
+license: mit
 ---
 
 # JiRack GPT 5 class with SWA, RoPE
