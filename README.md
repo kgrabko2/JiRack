@@ -88,6 +88,11 @@ Handles image creation and display processes.
 - **Customizable and Scalable:** Perfect for building intelligent voice-enabled AI assistants with visual capabilities.
 
 ---
+### JiRack RAG System
+- Framework Spring boot and Google embeddings model for JiRack RAG System with Chatbot and JiRach model deployment with docker scipt 
+- video https://www.youtube.com/watch?v=vHClQu76kMc
+- RAG System https://bitbucket.org/cmsmanhattan/rag/src/main/
+
 
 ### Unlocking New Possibilities
 This modular, ROS-powered multimodal architecture paves the way for a truly interactive AI experience:  
