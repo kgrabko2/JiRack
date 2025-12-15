@@ -3,8 +3,10 @@ license: gpl-3.0
 ---
 
 # JiRack GPT 5 class with SWA, RoPE
+- This is JiRack PyTorch on python
 - Just GPT is ready so far in PyTorch
-- Ask AI Gemini to review my model 
+- Ask AI Gemini to review my model
+- JiRack page on https://huggingface.co/CMSManhattan/JiRack_GPT5_1b
 
 # JiRack Transformer Architecture: A Leap Forward in AI
 
